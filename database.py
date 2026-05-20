@@ -1,8 +1,3 @@
-"""
-database.py — модуль базы данных SQLite
-Кулинарная книга
-"""
-
 import sqlite3
 import os
 import sys
