@@ -1,9 +1,3 @@
-"""
-main.py — Кулинарная книга
-Python + CustomTkinter + SQLite
-Дизайн: тёплая кухонная палитра (терракота, оливковый, сливочный)
-"""
-
 import customtkinter as ctk
 from tkinter import messagebox, filedialog, ttk, Menu
 import sys, os
